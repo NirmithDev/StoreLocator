@@ -1,0 +1,9 @@
+#The Plan
+
+To Do List!!!!!
+
+- Create A Wire Frame DONE
+-Set Up The Basic HTML Structure DONE
+-Add The Google Maps Into The Window
+-Add The Store Locator Zone
+-Add Input Box
