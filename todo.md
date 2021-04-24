@@ -31,6 +31,4 @@ To Do List!!!!!
 
 - Now When You Click On The Store Name It Should Open That Location ON The Map!!!
 
--
-
 - Add Transition To The Store List Make The Search Button Work 
