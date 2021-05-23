@@ -1,4 +1,5 @@
-#Hi There
+
+# Hi There
 
 - This is my store locator
 - It locates starbucks in a nearby range
@@ -9,6 +10,8 @@
 
 
 - above image is what it should look like
-- you can get the google api thru looking how ot get it or on google maps 
-- Then after that you can just follow along it is prolly already there on youtube by now and I ain't a youtube 😞
+- it was launched but my preivous CDN network had to go out of business due to lack of funds so yeah but feel free to download or fork it 
+- you can get the google api thru looking how to get it or on google maps API 
+- Then after that you can just follow along it is prolly already there on youtube by now and I ain't a youtuber 😞
 - Anywhoozy Thanks for reading yall stay groovy
+
